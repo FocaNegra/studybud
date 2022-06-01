@@ -1,0 +1,14 @@
+git innit
+git add <file>
+git status
+git commit
+git push
+git pull
+git clone
+
+
+
+WORKING DIRECTORY --- git add  ---> STAGING AREA --- git commit ---> REPOSITORY
+
+
+
