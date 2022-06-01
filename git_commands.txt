@@ -9,6 +9,10 @@ git clone
 git checkout -- index.html     -> revertir els canvis d'un archis
 fit diff index.html
 
+git branch       -> mirar quines branch estan creades
+git branch feature   -> crear una branch called 'feature'
+git checkout feature   -> moures a la branch 'feature'
+git add .      -> afegir tots els documents.
 
 
 WORKING DIRECTORY --- git add  ---> STAGING AREA --- git commit ---> REPOSITORY
