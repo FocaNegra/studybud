@@ -1,4 +1,4 @@
-git innit
+git init
 git add <file>
 git status
 git commit
@@ -6,9 +6,14 @@ git push
 git pull
 git clone
 
+git checkout -- index.html     -> revertir els canvis d'un archis
+fit diff index.html
+
 
 
 WORKING DIRECTORY --- git add  ---> STAGING AREA --- git commit ---> REPOSITORY
 
 
+> git init
 
+----> WORKING DIRECTORY
