@@ -1,3 +1,7 @@
+python -m virtualenv env       -> crear maquina virtual
+env/scripts/activate           -> activa environment
+
+
 git init
 git add <file>
 git status
